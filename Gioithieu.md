@@ -1,20 +1,23 @@
 # Website bán điện thoại
 
-## Nhóm của tôi
-
-Trần Phương Nam
-
-Lê Khánh Trường Vũ
-
-Nguyễn Quốc Huy
-
-Phạm Ngọc Châu Minh Thy
 
 ## Về tôi
 
 
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Nguyễn Quốc Huy - Trưởng nhóm (Leader) của Dev Team 6
 =========================================================================================================================
+## Kỹ năng:
+
+Phát triển phần mềm (C#, Java, HTML, JavaScript, CSS) <p align="left">
+
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+</p>
+
+
+Lãnh đạo nhóm & Hợp tác
+
+Kỹ năng giải quyết vấn đề & Phân tích
+
 ## Học vấn:
 
 Công nghệ Thông tin tại HUFLIT (Trường Đại học Ngoại ngữ - Tin học TP.HCMHo Chi Minh City University of Foreign Languages and Information Technology).
@@ -30,17 +33,17 @@ Công nghệ Thông tin tại HUFLIT (Trường Đại học Ngoại ngữ - Tin
 <a href="http://www.github.com/lluy4"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lluy4&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <a href="https://github.com/lluy4" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluy4&langs_count=10&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-## Kỹ năng:
 
-Phát triển phần mềm (C#, Java, HTML, JavaScript, CSS) <p align="left">
+## Nhóm của tôi
 
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
+Trần Phương Nam
 
+Lê Khánh Trường Vũ
 
-Lãnh đạo nhóm & Hợp tác
+Nguyễn Quốc Huy
 
-Kỹ năng giải quyết vấn đề & Phân tích
+Phạm Ngọc Châu Minh Thy
+
 
 # Tài liệu dự án
 
@@ -53,7 +56,3 @@ Testcase
   Product backlog 
   
   [Wed bán điện thoại.xlsx](https://github.com/user-attachments/files/17429729/Wed.ban.di.n.tho.i.xlsx)
-
-
-
-
